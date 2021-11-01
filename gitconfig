@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = s-kh@live.fr
+	name = Sarah Khoubbaz-harl
